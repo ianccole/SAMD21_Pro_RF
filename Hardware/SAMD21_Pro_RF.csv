@@ -1,72 +1,65 @@
-Part,Value,Device,Package,Manufacturer Part,Digikey,PROD_ID,SF_ID,SF_SKU,VALUE,Description
-C1,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,F931C106KAA,478-8235-1-ND,CAP-00811,,,10uF,10.0µF polarized capacitors
-C2,15pF,15PF-0603-50V-5%,603,CC0603JRNPO9BN150,311-1060-1-ND,CAP-07881,,,15pF,15pF ceramic capacitors
-C3,15pF,15PF-0603-50V-5%,603,CC0603JRNPO9BN150,,CAP-07881,,,15pF,15pF ceramic capacitors
-C4,0.1uF,0.1UF-0603-25V-(+80/-20%),603,06033G104ZAT2A,478-1259-1-ND,CAP-00810,,,0.1uF,0.1µF ceramic capacitors
-C5,1.0uF,1.0UF-0603-16V-10%,603,,,CAP-00868,,,1.0uF,1µF ceramic capacitors
-C6,0.1uF,0.1UF-0603-25V-(+80/-20%),603,,,CAP-00810,,,0.1uF,0.1µF ceramic capacitors
-C7,1.0uF,1.0UF-0603-16V-10%,603,,,CAP-00868,,,1.0uF,1µF ceramic capacitors
-C9,4.7uF,4.7UF-0603-6.3V-(10%),603,,,CAP-08280,,,4.7uF,4.7µF ceramic capacitors
-C10,0.1uF,0.1UF-0603-25V-(+80/-20%),603,,,CAP-00810,,,0.1uF,0.1µF ceramic capacitors
-C11,0.1uF,0.1UF-0603-25V-(+80/-20%),603,,,CAP-00810,,,0.1uF,0.1µF ceramic capacitors
-C12,1.0uF,1.0UF-0603-16V-10%,603,,,CAP-00868,,,1.0uF,1µF ceramic capacitors
-C13,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,,,CAP-00811,,,10uF,10.0µF polarized capacitors
-C14,0.1uF,0.1UF-0603-25V-(+80/-20%),603,,,CAP-00810,,,0.1uF,0.1µF ceramic capacitors
-C15,0.1uF,0.1UF-0603-25V-(+80/-20%),603,,,CAP-00810,,,0.1uF,0.1µF ceramic capacitors
-D1,Green,LED-GREEN0603,LED-0603,,,DIO-00821,,,GREEN,Green SMD LED
-D2,BLUE,LED-BLUE0603,LED-0603,,,DIO-08575,,,BLUE,Blue SMD LED
-D3,1A/23V/620mV,DIODE-SCHOTTKY-BAT20J,SOD-323,,,DIO-11623,,,1A/23V/620mV,Schottky diode
-D4,BLUE,LED-BLUE0603,LED-0603,,,DIO-08575,,,BLUE,Blue SMD LED
-D6,Yellow,LED-YELLOW0603,LED-0603,,,DIO-09003,,,Yellow,Yellow SMD LED
-F1,6V/0.5A,PPTC_HALF-AMP,1206,,,RES-08585,,,6V/0.5A,Resettable Fuse PPTC
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-H1,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,,,,,,,Stand Off
-H2,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,,,,,,,Stand Off
-J1,,USB_MICRO-B_HALF_PTH_MILL,USB-MICROB-PTH-MILL,,,CONN-13711,,,,USB Type Micro-B Connector
-J2,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,,,CONN-13694,,,,SparkFun I2C Standard Qwiic Connector
-J3,,CONN_10NO_SILK_PTH_FEMALE,1X10_NO_SILK,,,CONN-11563,,,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J4,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,,,,,,,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J5,,CONN_09NO_SILK,1X09_NO_SILK,,,,,,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J6,,CONN_10NO_SILK_PTH_FEMALE,1X10_NO_SILK,,,CONN-11563,,,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J7,PTH,CONN_021X02_NO_SILK,1X02_NO_SILK,,,,,,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J8,,CONN_021X02_NO_SILK,1X02_NO_SILK,,,,,,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J9,External On/Off,CONN_021X02_NO_SILK,1X02_NO_SILK,,,,,,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J10,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,,,,,,,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J11,,CONN_09NO_SILK,1X09_NO_SILK,,,,,,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J12,JST,CONN_02-JST-2MM-SMT,JST-2-SMD,,,CONN-11443,,,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-J13,U.FL,U.FL,U.FL,,,CONN-09193,WRL-09144,,U.FL,SMD Antenna Connector - U.FL
-J14,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,,,,,,,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
-JP3,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,,,,,,,Normally open jumper
-JP4,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,,,,,,,Normally open jumper
-L1,,INDUCTORFB-30OHM,603,,,NDUC-07859,,,,Inductors
-LED,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,,,,,,,Normally closed trace jumper
-LED1,RED,LED-RED0603,LED-0603,,,DIO-00819,,,RED,Red SMD LED
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-Q1,2.5A/30V,MOSFET-PCHANNELDMG2307L,SOT23-3@1,,,TRANS-11308,,,2.5A/30V,Generic PMOSFET
-R1,1M,1MOHM-0603-1/4W-5%,603,,,RES-07868,,,1M,1MΩ resistor
-R2,1M,1MOHM-0603-1/4W-5%,603,,,RES-07868,,,1M,1MΩ resistor
-R3,1k,1KOHM-0603-1/10W-1%,603,,,RES-07856,,,1k,1kΩ resistor
-R4,10k,10KOHM-0603-1/10W-1%,603,,,RES-00824,,,10k,10kΩ resistor
-R5,2.0k,2.0KOHM-0603-1/10W-5%,603,,,RES-08296,,,2.0k,2kΩ resistor
-R6,10k,10KOHM-0603-1/10W-1%,603,,,RES-00824,,,10k,10kΩ resistor
-R7,1k,1KOHM-0603-1/10W-1%,603,,,RES-07856,,,1k,1kΩ resistor
-R8,10k,10KOHM-0603-1/10W-1%,603,,,RES-00824,,,10k,10kΩ resistor
-R9,1k,1KOHM-0603-1/10W-1%,603,,,RES-07856,,,1k,1kΩ resistor
-R10,1k,1KOHM-0603-1/10W-1%,603,,,RES-07856,,,1k,1kΩ resistor
-R13,1k,1KOHM-0603-1/10W-1%,603,,,RES-07856,,,1k,1kΩ resistor
-S1,Power,SWITCH-SPDT-SMD-RIGHT-ANGLE,SWITCH_SPST_SMD_A,,,,,,,Single Pole
-S3,,MOMENTARY-SWITCH-SPST-SMD-RIGHT-ANGLE,TACTILE_SWITCH_SMD_RIGHT_ANGLE,,,COMP-12265,,,,Momentary Switch (Pushbutton) - SPST
-TP1,TEST-POINT3,TEST-POINT3,PAD.03X.03,,,,,,,SparkFun Test Points
-TP2,TEST-POINT3,TEST-POINT3,PAD.03X.03,,,,,,,SparkFun Test Points
-,,,,,,,,,,
-U1,MCP73831,MCP73831,SOT23-5,,,,,,,MCP73831T Li-Ion
-U3,RFM95W,RFM95W,RFM95/96/97/98W,,,IC-13959,,,,RFM95/96/97/98
-U4,ATSAMD21G,ATSAMD21G,QFN-48_NO_EXPOSED_PAD,,,IC-14066,,,,Atmel SAMD21G SMART ARM-Based Microcontroller
-U6,3.3V,V_REG_AP2112K-3.3V,SOT23-5,,,VREG-12457,,,3.3V,AP2112 - 600mA CMOS LDO Regulator w/ Enable
-Y1,32.768kHz,CRYSTAL-32.768KHZSMD-3.2X1.5,CRYSTAL-SMD-3.2X1.5MM,,,XTAL-13062,,,32.768kHz,32.768kHz Crystal
+Part,Value,Device,Package,Manufacturer Part,Digikey,Mouser,PROD_ID,VALUE,Description
+C1,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,F931C106KAA,478-8235-1-ND,,CAP-00811,10uF,10.0µF polarized capacitors
+C2,15pF,15PF-0603-50V-5%,603,CC0603JRNPO9BN150,311-1060-1-ND,,CAP-07881,15pF,15pF ceramic capacitors
+C3,15pF,15PF-0603-50V-5%,603,CC0603JRNPO9BN150,311-1060-1-ND,,CAP-07881,15pF,15pF ceramic capacitors
+C4,0.1uF,0.1UF-0603-25V-(+80/-20%),603,06033G104ZAT2A,478-1259-1-ND,,CAP-00810,0.1uF,0.1µF ceramic capacitors
+C5,1.0uF,1.0UF-0603-16V-10%,603,CC0603KRX7R7BB105,311-1446-1-ND,,CAP-00868,1.0uF,1µF ceramic capacitors
+C6,0.1uF,0.1UF-0603-25V-(+80/-20%),603,06033G104ZAT2A,478-1259-1-ND,,CAP-00810,0.1uF,0.1µF ceramic capacitors
+C7,1.0uF,1.0UF-0603-16V-10%,603,CC0603KRX7R7BB105,311-1446-1-ND,,CAP-00868,1.0uF,1µF ceramic capacitors
+C9,4.7uF,4.7UF-0603-6.3V-(10%),603,06036D475KAT2A,478-5009-1-ND,,CAP-08280,4.7uF,4.7µF ceramic capacitors
+C10,0.1uF,0.1UF-0603-25V-(+80/-20%),603,06033G104ZAT2A,478-1259-1-ND,,CAP-00810,0.1uF,0.1µF ceramic capacitors
+C11,0.1uF,0.1UF-0603-25V-(+80/-20%),603,06033G104ZAT2A,478-1259-1-ND,,CAP-00810,0.1uF,0.1µF ceramic capacitors
+C12,1.0uF,1.0UF-0603-16V-10%,603,CC0603KRX7R7BB105,311-1446-1-ND,,CAP-00868,1.0uF,1µF ceramic capacitors
+C13,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,F931C106KAA,478-8235-1-ND,,CAP-00811,10uF,10.0µF polarized capacitors
+C14,0.1uF,0.1UF-0603-25V-(+80/-20%),603,06033G104ZAT2A,478-1259-1-ND,,CAP-00810,0.1uF,0.1µF ceramic capacitors
+C15,0.1uF,0.1UF-0603-25V-(+80/-20%),603,06033G104ZAT2A,478-1259-1-ND,,CAP-00810,0.1uF,0.1µF ceramic capacitors
+D1,Green,LED-GREEN0603,LED-0603,LTST-C191KGKT,160-1446-1-ND,,,GREEN,Green SMD LED
+D2,BLUE,LED-BLUE0603,LED-0603,LTST-C191TBKT,160-1647-1-ND,,,BLUE,Blue SMD LED
+D3,1A/23V/620mV,DIODE-SCHOTTKY-BAT20J,SOD-323,BAT20JFILM,497-3381-1-ND,,,1A/23V/620mV,Schottky diode
+D4,BLUE,LED-BLUE0603,LED-0603,LTST-C191TBKT,160-1647-1-ND,,DIO-08575,BLUE,Blue SMD LED
+D6,Yellow,LED-YELLOW0603,LED-0603,LTST-C191KSKT,160-1448-1-ND,,,Yellow,Yellow SMD LED
+F1,6V/0.5A,PPTC_HALF-AMP,1206,1206L050YR,F2112TR-ND,,,6V/0.5A,Resettable Fuse PPTC
+J1,,USB_MICRO-B_HALF_PTH_MILL,USB-MICROB-PTH-MILL,10103594-0001LF,609-4050-1-ND,,CONN-13711,,USB Type Micro-B Connector
+J2,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,PRT-16766,1568-PRT-16766-ND,,CONN-13694,,SparkFun I2C Standard Qwiic Connector
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+J12,JST,CONN_02-JST-2MM-SMT,JST-2-SMD,PRT-08612,,474-PRT-08612,CONN-11443,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
+J13,U.FL,U.FL,U.FL,WRL-09144,,474-WRL-09144,CONN-09193,U.FL,SMD Antenna Connector - U.FL
+,,,,,,,,,
+JP3,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,,,,,,Normally open jumper
+JP4,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,,,,,,Normally open jumper
+L1,,INDUCTORFB-30OHM,603,BLM18PG300SN1D,490-1035-1-ND,,NDUC-07859,,Inductors
+LED,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,,,,,,Normally closed trace jumper
+LED1,RED,LED-RED0603,LED-0603,LTST-C191KRKT,160-1447-2-ND,,DIO-00819,RED,Red SMD LED
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Q1,2.5A/30V,MOSFET-PCHANNELDMG2307L,SOT23-3@1,DMG2307L-7,DMG2307L-7DITR-ND,,TRANS-11308,2.5A/30V,Generic PMOSFET
+R1,1M,1MOHM-0603-1/4W-5%,603,ESR03EZPJ105,RHM1MDTR-ND,,RES-07868,1M,1MΩ resistor
+R2,1M,1MOHM-0603-1/4W-5%,603,ESR03EZPJ105,RHM1MDTR-ND,,RES-07868,1M,1MΩ resistor
+R3,1k,1KOHM-0603-1/10W-1%,603,,,,RES-07856,1k,1kΩ resistor
+R4,10k,10KOHM-0603-1/10W-1%,603,,,,RES-00824,10k,10kΩ resistor
+R5,2.0k,2.0KOHM-0603-1/10W-5%,603,,,,RES-08296,2.0k,2kΩ resistor
+R6,10k,10KOHM-0603-1/10W-1%,603,,,,RES-00824,10k,10kΩ resistor
+R7,1k,1KOHM-0603-1/10W-1%,603,,,,RES-07856,1k,1kΩ resistor
+R8,10k,10KOHM-0603-1/10W-1%,603,,,,RES-00824,10k,10kΩ resistor
+R9,1k,1KOHM-0603-1/10W-1%,603,,,,RES-07856,1k,1kΩ resistor
+R10,1k,1KOHM-0603-1/10W-1%,603,,,,RES-07856,1k,1kΩ resistor
+R13,1k,1KOHM-0603-1/10W-1%,603,,,,RES-07856,1k,1kΩ resistor
+S1,Power,SWITCH-SPDT-SMD-RIGHT-ANGLE,SWITCH_SPST_SMD_A,,,,,,Single Pole
+S3,,MOMENTARY-SWITCH-SPST-SMD-RIGHT-ANGLE,TACTILE_SWITCH_SMD_RIGHT_ANGLE,,,,COMP-12265,,Momentary Switch (Pushbutton) - SPST
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+U1,MCP73831,MCP73831,SOT23-5,,,,,,MCP73831T Li-Ion
+U3,RFM95W,RFM95W,RFM95/96/97/98W,,,,IC-13959,,RFM95/96/97/98
+U4,ATSAMD21G,ATSAMD21G,QFN-48_NO_EXPOSED_PAD,,,,IC-14066,,Atmel SAMD21G SMART ARM-Based Microcontroller
+U6,3.3V,V_REG_AP2112K-3.3V,SOT23-5,,,,VREG-12457,3.3V,AP2112 - 600mA CMOS LDO Regulator w/ Enable
+Y1,32.768kHz,CRYSTAL-32.768KHZSMD-3.2X1.5,CRYSTAL-SMD-3.2X1.5MM,,,,XTAL-13062,32.768kHz,32.768kHz Crystal
